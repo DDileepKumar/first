@@ -3,3 +3,4 @@ The Inter-Integrated Circuit (I2C) Protocol is a protocol intended to allow mult
 
 Ref:
 https://automationcommunity.com/exploring-i2c-in-detail-comprehensive-qa/
+https://www.nxp.com/docs/en/user-guide/UM10204.pdf
