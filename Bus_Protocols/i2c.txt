@@ -1,1 +1,5 @@
 The Inter-Integrated Circuit (I2C) Protocol is a protocol intended to allow multiple "peripheral" digital integrated circuits ("chips") to communicate with one or more "controller" chips.
+
+
+Ref:
+https://automationcommunity.com/exploring-i2c-in-detail-comprehensive-qa/
