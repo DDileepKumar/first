@@ -5,6 +5,6 @@
 https://medium.com/@akashagrawal_33749/cracking-the-firmware-embedded-systems-engineer-interview-d73a37da95bd    link
 
 Roadmap for Embededsystem design was
-
+https://github.com/m3y54m/Embedded-Engineering-Roadmap?tab=readme-ov-file
 [Embedded-Engineering-Roadmap](https://github.com/user-attachments/assets/2942ccd2-4ddc-4a86-93e2-32bc03a03eb0)
 
